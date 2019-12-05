@@ -1,6 +1,3 @@
-import Data.List (nub)
-
-
 main :: IO ()
 
 isOrder [_] = True
